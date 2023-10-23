@@ -4,8 +4,7 @@ This was an HTML and CSS Challenge taken for a recruitment process, the task bei
 ![image](https://github.com/WilliamLongKing/HTML-CSS-Challenge/assets/26048106/de4f4cef-b17d-41f1-a4c1-d2f19fd9b145)
 The page in question to replicate
 
-![image](https://github.com/WilliamLongKing/HTML-CSS-Challenge/assets/26048106/a54cab2f-fa2b-4e78-89a1-34810e638041)
-
+![image](https://github.com/WilliamLongKing/HTML-CSS-Challenge/assets/26048106/3858a5ae-1918-4972-81e1-33073db7505f)
 My take on the replicated page
 
 # Clarifications
