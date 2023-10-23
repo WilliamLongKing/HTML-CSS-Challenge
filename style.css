@@ -3,10 +3,10 @@ p, h2, th, td {
 }
 
 #content {
-    width: 75vw;
+    width: 80vw;
     margin: auto;
     border: 3px solid black;
-    margin-top: 1vh;
+    margin-top: 2vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -19,12 +19,12 @@ p, h2, th, td {
     margin-bottom: 2vh;
     margin-left: 0.5vw;
     margin-right: 0.5vw;
-    width: 73vw;
+    width: 77vw;
 }
 
 #logoImage {
-    width: 15vh;
-    height: 15vh;
+    width: 12vh;
+    height: 12vh;
     margin: 2vh;
 }
 
@@ -36,7 +36,7 @@ p, h2, th, td {
     margin-bottom: 0.75vw;
     padding-left: 0.75vw;
     padding-right: 0.75vw;
-    width: 70vw;
+    width: 75vw;
 }
 
 
@@ -57,6 +57,7 @@ p, h2, th, td {
 
 table, th, td {
     border: 1px solid black;
+    font-size: 20px;
 }
 
 .doubleColumn {
@@ -65,14 +66,15 @@ table, th, td {
 
 table {
     margin: auto;
-    width: 73vw;
+    width: 77vw;
 }
 
 #copyright {
     background-color: #FAEBD6;
     text-align: center;
-    width: 73vw;
+    width: 77vw;
     margin: 0.75vw;
     padding-top: 0.75vw;
     padding-bottom: 0.75vw;
+    font-size: 20px;
 }
