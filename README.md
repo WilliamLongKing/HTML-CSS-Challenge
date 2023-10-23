@@ -1,8 +1,14 @@
 # HTML-CSS-Challenge
 This was an HTML and CSS Challenge taken for a recruitment process, the task being to replicate a website in HTML and CSS given an image of the site. 
 
+![image](https://github.com/WilliamLongKing/HTML-CSS-Challenge/assets/26048106/de4f4cef-b17d-41f1-a4c1-d2f19fd9b145)
+The page in question to replicate
+
+![image](https://github.com/WilliamLongKing/HTML-CSS-Challenge/assets/26048106/4fe6a131-5178-4f4e-80ad-2219d2a7cbc3)
+My take on the replicated page
+
 # Clarifications
-The aesthetics of the page were guessed at during replication, with some uncertainties. I identified the proper hex codes for the background colors of the logo and copyright sections, but used common colors such as black, grey, and green in most places. The blue arrows in the picture were not included, as an image was not provided for them, and I am not aware of an HTML element for adding arrows (without using my own image, or text characters that do not resemble them). Therefore, I assumed that the arrows were meant to indicate that there should be margins betweeen the page content and the ends of the screen. 
+The aesthetics of the page were guessed at during replication, with some uncertainties (mostly with regards to spacing). I identified the proper hex codes for the background colors of the logo and copyright sections, but used common colors such as black, grey, and green in most places. The blue arrows in the picture were not included, as an image was not provided for them, and I am not aware of an HTML element for adding arrows (without using my own image, or text characters that do not resemble them). Therefore, I assumed that the arrows were meant to indicate that there should be margins betweeen the page content and the ends of the screen. 
 
 I also used my personal favorite Lorem ipsum substitute, Bacon ipsum, as the long form Lorem ipsum text could not be readily found. 
 
